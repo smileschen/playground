@@ -7,6 +7,7 @@ There is only one line of text in part 1.
 Heading for Part 2
 
 There is only one line of text in part 2.
+I added one line to part 2.
 
 Heading for Part 3
 
