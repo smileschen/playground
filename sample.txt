@@ -7,8 +7,11 @@ Second line of text in part 1.
 
 Heading for Part 2
 
+I will add text to part 2.
 There is only one line of text in part 2.
 I added one line to part 2.
+I add text down below.
+This is line 14.
 
 Heading for Part 3
 
