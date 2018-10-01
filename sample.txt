@@ -12,8 +12,11 @@ I added one line to part 2.
 
 Heading for Part 3
 
+I add some lines above.
 We add some lines above the existing text.
 Multiple lines.
 There is only one line of text in part 3.
+I add some lines in the middle.
 We add multiple lines below the existing text.
 Like down here.
+We continue to add more text here.
