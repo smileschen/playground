@@ -2,7 +2,8 @@ Imaginary document - the title
 
 Heading for Part 1
 
-There is only one line of text in part 1.
+First line of text in part 1.
+Second line of text in part 1.
 
 Heading for Part 2
 
